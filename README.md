@@ -1,5 +1,12 @@
 # GENEVIEVE Super Response Engine
 
+**Canonical Python engine repository.**
+
+Repository family:
+- `Tracey-s-Super-Computer` — canonical Python engine
+- `Traceys-super-computer` — exact historical duplicate with the same five file blobs, retained as reference only
+- later web-based Super Response builds are a separate implementation track and are not merged into this Python engine
+
 A safer, current replacement for the original multi-model script.
 
 It sends one question to selected providers in parallel, records which calls
